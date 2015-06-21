@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "BluePower\n\n\nWelcome to the documentation of BluePower.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#bluepower", 
+            "text": "Welcome to the documentation of BluePower.", 
+            "title": "BluePower"
+        }
+    ]
+}
