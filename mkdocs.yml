@@ -1,0 +1,12 @@
+site_name: BluePower
+repo_url: https://github.com/ModDocs/bluepower
+strict: true
+
+markdown_extensions:
+  - smarty
+  - urlize
+  - tables
+  - fenced_code
+
+pages:
+  - Home: index.md
