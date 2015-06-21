@@ -1,2 +1,2 @@
 # BluePower
-Welcome to the documentation of BluePower.
+Welcome to the documentation of Bluepower.
