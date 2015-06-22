@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "BluePower\n\n\nWelcome to the documentation of Bluepower.", 
+            "text": "BluePower\n\n\nWelcome to the documentation of Bluepower.\n\n\n\n\nBluePower is a collaborative effort to revive some of the things\n\n\nthat are missing from previous versions of modded Minecraft.\n\n\n\n\nMod Authors:\n\n\n\n\n\n\nQuetzi: Developer\n\n\n\n\n\n\nAmadornes: Developer and Artist\n\n\n\n\n\n\nMineMaarten: Developer\n\n\n\n\n\n\nK4unl: Developer\n\n\n\n\n\n\nZness: Artist\n\n\n\n\n\n\n\n\nThese pages are made by MrKickkiller.", 
             "title": "Home"
         }, 
         {
             "location": "/#bluepower", 
-            "text": "Welcome to the documentation of Bluepower.", 
+            "text": "", 
             "title": "BluePower"
+        }, 
+        {
+            "location": "/#welcome-to-the-documentation-of-bluepower", 
+            "text": "BluePower is a collaborative effort to revive some of the things  that are missing from previous versions of modded Minecraft.   Mod Authors:    Quetzi: Developer    Amadornes: Developer and Artist    MineMaarten: Developer    K4unl: Developer    Zness: Artist     These pages are made by MrKickkiller.", 
+            "title": "Welcome to the documentation of Bluepower."
         }
     ]
 }
