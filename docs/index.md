@@ -9,7 +9,7 @@
 
 ---
 
-##### Mod Authors: 
+#### Mod Authors: 
 
   * Quetzi: Developer
 
@@ -23,4 +23,11 @@
 
 ---
 
+##### BluePower Latest Build (Download): [To CurseForge](http://minecraft.curseforge.com/mc-mods/223099-blue-power)
+
+##### BluePower Github : [To Github](https://github.com/Qmunity/BluePower)
+
+---
+
 ###### These pages are made by MrKickkiller. Content is subject to change at any time.
+
