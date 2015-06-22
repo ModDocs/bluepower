@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "BluePower\n\n\nWelcome to the documentation of Bluepower.\n\n\n\n\nBluePower is a collaborative effort to revive some of the things\n\n\nthat are missing from previous versions of modded Minecraft.\n\n\n\n\nMod Authors:\n\n\n\n\n\n\nQuetzi: Developer\n\n\n\n\n\n\nAmadornes: Developer and Artist\n\n\n\n\n\n\nMineMaarten: Developer\n\n\n\n\n\n\nK4unl: Developer\n\n\n\n\n\n\nZness: Artist\n\n\n\n\n\n\n\n\nThese pages are made by MrKickkiller. Content is subject to change at any time.", 
+            "text": "BluePower\n\n\nWelcome to the documentation of Bluepower.\n\n\n\n\nBluePower is a collaborative effort to revive some of the things\n\n\nthat are missing from previous versions of modded Minecraft.\n\n\n\n\nMod Authors:\n\n\n\n\n\n\nQuetzi: Developer\n\n\n\n\n\n\nAmadornes: Developer and Artist\n\n\n\n\n\n\nMineMaarten: Developer\n\n\n\n\n\n\nK4unl: Developer\n\n\n\n\n\n\nZness: Artist\n\n\n\n\n\n\n\n\nBluePower Latest Build (Download): \nTo CurseForge\n\n\nBluePower Github : \nTo Github\n\n\n\n\nThese pages are made by MrKickkiller. Content is subject to change at any time.", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#welcome-to-the-documentation-of-bluepower", 
-            "text": "BluePower is a collaborative effort to revive some of the things  that are missing from previous versions of modded Minecraft.   Mod Authors:    Quetzi: Developer    Amadornes: Developer and Artist    MineMaarten: Developer    K4unl: Developer    Zness: Artist     These pages are made by MrKickkiller. Content is subject to change at any time.", 
+            "text": "BluePower is a collaborative effort to revive some of the things  that are missing from previous versions of modded Minecraft.   Mod Authors:    Quetzi: Developer    Amadornes: Developer and Artist    MineMaarten: Developer    K4unl: Developer    Zness: Artist     BluePower Latest Build (Download):  To CurseForge  BluePower Github :  To Github   These pages are made by MrKickkiller. Content is subject to change at any time.", 
             "title": "Welcome to the documentation of Bluepower."
         }, 
         {
@@ -37,13 +37,13 @@
         }, 
         {
             "location": "/Redstone/Wiring/TeslatiteWire/", 
-            "text": "Teslatite Wire\n\n\n\n\nColours\n\n\nWIP", 
+            "text": "Infused Teslatite Wire\n\n\n\n\nColours\n\n\nInfused Teslatite Wire comes in all 16 different colours and with an unshielded version.\n\n\nThe principle behind the colours is to make compact wiring possible without interconnections between differently coloured wires.\nAn unshielded piece of Infused Teslatite wire can connect to any coloured/shielded piece of Infused Teslatite Wire. Yet a coloured wire will only connect to similarly coloured wires.\n\n\nInfused Teslatite Wire can be placed on any face of a full block or the outside of a MicroPart.\nIt is not possible to place Infused Teslatite Wire on the inside of a MicroPart.\n\n\n\n\nRedstone\n\n\nThe signal within a Infused Teslatite wire can have 2 values: 0 and 255. Meaning that an Infused Teslatite Wire is used for a digital signal. Either on or off.\n\n\nUnlike Redstone Dust, Infused Teslatite Wire does now know any signal degradation over its length. Meaning that this type of wire is loss-less.\n\n\nShielded Infused Teslatite Wire can not transmit a redstone signal trough a block. Unshielded Infused Teslatite Wire can however.", 
             "title": "Teslatite Wire"
         }, 
         {
-            "location": "/Redstone/Wiring/TeslatiteWire/#teslatite-wire", 
-            "text": "Colours  WIP", 
-            "title": "Teslatite Wire"
+            "location": "/Redstone/Wiring/TeslatiteWire/#infused-teslatite-wire", 
+            "text": "Colours  Infused Teslatite Wire comes in all 16 different colours and with an unshielded version.  The principle behind the colours is to make compact wiring possible without interconnections between differently coloured wires.\nAn unshielded piece of Infused Teslatite wire can connect to any coloured/shielded piece of Infused Teslatite Wire. Yet a coloured wire will only connect to similarly coloured wires.  Infused Teslatite Wire can be placed on any face of a full block or the outside of a MicroPart.\nIt is not possible to place Infused Teslatite Wire on the inside of a MicroPart.   Redstone  The signal within a Infused Teslatite wire can have 2 values: 0 and 255. Meaning that an Infused Teslatite Wire is used for a digital signal. Either on or off.  Unlike Redstone Dust, Infused Teslatite Wire does now know any signal degradation over its length. Meaning that this type of wire is loss-less.  Shielded Infused Teslatite Wire can not transmit a redstone signal trough a block. Unshielded Infused Teslatite Wire can however.", 
+            "title": "Infused Teslatite Wire"
         }
     ]
 }
