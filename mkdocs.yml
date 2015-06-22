@@ -11,3 +11,5 @@ markdown_extensions:
 
 pages:
   - Home: index.md
+  - Redstone:
+    - Red Alloy Wire: RedAlloyWire.md

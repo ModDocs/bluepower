@@ -1,3 +1,4 @@
+
 # BluePower
 ## Welcome to the documentation of Bluepower.
 
@@ -23,4 +24,4 @@
 
 ---
 
-###### These pages are made by MrKickkiller.
+###### These pages are made by MrKickkiller. Content is subject to change at any time.
