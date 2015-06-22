@@ -27,28 +27,23 @@
         }, 
         {
             "location": "/Redstone/Wiring/BlueStoneWire/", 
-            "text": "Blue Stone Wire\n\n\n\n\nColours\n\n\nBla die bla die bla", 
+            "text": "Blue Stone Wire\n\n\n\n\nColours\n\n\nWIP", 
             "title": "Bluestone Wire"
         }, 
         {
             "location": "/Redstone/Wiring/BlueStoneWire/#blue-stone-wire", 
-            "text": "Colours  Bla die bla die bla", 
+            "text": "Colours  WIP", 
             "title": "Blue Stone Wire"
         }, 
         {
             "location": "/Redstone/Wiring/TeslatiteWire/", 
-            "text": "Teslatite Wire\n\n\n\n\nColours\n\n\nBla die bla die bla. Tired", 
+            "text": "Teslatite Wire\n\n\n\n\nColours\n\n\nWIP", 
             "title": "Teslatite Wire"
         }, 
         {
             "location": "/Redstone/Wiring/TeslatiteWire/#teslatite-wire", 
-            "text": "Colours  Bla die bla die bla. Tired", 
+            "text": "Colours  WIP", 
             "title": "Teslatite Wire"
-        }, 
-        {
-            "location": "/Power/BluePower/", 
-            "text": "", 
-            "title": "Blue power"
         }
     ]
 }
