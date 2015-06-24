@@ -15,6 +15,12 @@ pages:
     - Red Alloy Wire: Redstone/Wiring/RedAlloyWire.md
     - Bluestone Wire: Redstone/Wiring/BlueStoneWire.md
     - Teslatite Wire: Redstone/Wiring/TeslatiteWire.md
+
+  - World Generation:
+    - Marble : WorldGen/Marble.md
+    - Basalt : WorldGen/Basalt.md
+    - Volcano : WorldGen/Volcano.md
+
   - Enchantments:
     - Vorpal : Enchantment/enchantmentVorpal.md
     - Disjunction : Enchantment/enchantmentDisjunction.md
