@@ -76,6 +76,36 @@
             "title": "Volcano"
         }, 
         {
+            "location": "/WorldGen/GemStones/", 
+            "text": "Gem Stones\n\n\n\n\nAmethist\n\n\n\n\nRuby\n\n\n\n\nSapphire", 
+            "title": "Amethist ore"
+        }, 
+        {
+            "location": "/WorldGen/GemStones/#gem-stones", 
+            "text": "Amethist   Ruby   Sapphire", 
+            "title": "Gem Stones"
+        }, 
+        {
+            "location": "/WorldGen/GemStones/", 
+            "text": "Gem Stones\n\n\n\n\nAmethist\n\n\n\n\nRuby\n\n\n\n\nSapphire", 
+            "title": "Ruby ore"
+        }, 
+        {
+            "location": "/WorldGen/GemStones/#gem-stones", 
+            "text": "Amethist   Ruby   Sapphire", 
+            "title": "Gem Stones"
+        }, 
+        {
+            "location": "/WorldGen/GemStones/", 
+            "text": "Gem Stones\n\n\n\n\nAmethist\n\n\n\n\nRuby\n\n\n\n\nSapphire", 
+            "title": "Sapphire ore"
+        }, 
+        {
+            "location": "/WorldGen/GemStones/#gem-stones", 
+            "text": "Amethist   Ruby   Sapphire", 
+            "title": "Gem Stones"
+        }, 
+        {
             "location": "/Enchantment/enchantmentVorpal/", 
             "text": "Vorpal Enchant\n\n\n\n\n Max Enchantmentlevel: \n 2\n\n\n Effect:  \n Chance of getting heads from the killed mob.\n\n\n Effect / Level: \n \n\n\n\n\n\n\nVorpal I : 1/6 chance of getting a head ==\n 17 % \n\n\n\n\n\n\nVorpal II : 1/3 chance of getting a head ==\n 33 %", 
             "title": "Vorpal"
