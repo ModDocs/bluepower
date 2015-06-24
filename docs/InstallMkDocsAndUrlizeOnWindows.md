@@ -9,10 +9,10 @@ Links:
 - markdown-urlize: https://github.com/r0wb0t/markdown-urlize/archive/master.zip.
 
 Procedure:
+
 1. Verify what type of command structure you have to use. (Administrator)
 	Some may have to use 'pip <Command>', while others may have to use 'python -m pip <Command>'
-
-	(Seems like users with Chocolatey installed can simply use 'pip <Command>' instead of calling the python module interpreter everytime. Not confirmed though)
+	Seems like users with Chocolatey installed can simply use 'pip <Command>' instead of calling the python module interpreter everytime. Not confirmed though
 	
 2. Install mkdocs: (Administrator)
 	'python -m pip install mkdocs' OR 'pip install mkdocs' : Dependent on the command structure you have found out works in step 1.
