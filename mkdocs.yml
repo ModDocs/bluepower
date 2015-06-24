@@ -20,6 +20,9 @@ pages:
     - Marble : WorldGen/Marble.md
     - Basalt : WorldGen/Basalt.md
     - Volcano : WorldGen/Volcano.md
+    - Amethist ore: WorldGen/GemStones.md
+    - Ruby ore: WorldGen/GemStones.md
+    - Sapphire ore: WorldGen/GemStones.md
 
   - Enchantments:
     - Vorpal : Enchantment/enchantmentVorpal.md
