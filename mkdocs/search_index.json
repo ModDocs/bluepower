@@ -46,6 +46,36 @@
             "title": "Infused Teslatite Wire"
         }, 
         {
+            "location": "/WorldGen/Marble/", 
+            "text": "Marble\n\n\n\n\n Required Mining Level: \n Wood\n\n\nMarble is a material found in the world. Marble can be found in the ground, and spawns in veins.\nMarble will not generate at y-levels \n 96.\n\n\nAs Basalt, it\ns function is mainly for decorating your bases/ buildings.\n\n\nThere are many variations in the Marble texture.\n\n\n[Images coming soon]", 
+            "title": "Marble"
+        }, 
+        {
+            "location": "/WorldGen/Marble/#marble", 
+            "text": "Required Mining Level:   Wood  Marble is a material found in the world. Marble can be found in the ground, and spawns in veins.\nMarble will not generate at y-levels   96.  As Basalt, it s function is mainly for decorating your bases/ buildings.  There are many variations in the Marble texture.  [Images coming soon]", 
+            "title": "Marble"
+        }, 
+        {
+            "location": "/WorldGen/Basalt/", 
+            "text": "Basalt\n\n\n\n\n Required Mining Level: \n Wood\n\n\nBasalt is a material found in the world. Primarily around volcanoes. \n\n\nAs marble, it\ns function is mainly for decorating your bases/ buildings.\n\n\n[Images coming soon]", 
+            "title": "Basalt"
+        }, 
+        {
+            "location": "/WorldGen/Basalt/#basalt", 
+            "text": "Required Mining Level:   Wood  Basalt is a material found in the world. Primarily around volcanoes.   As marble, it s function is mainly for decorating your bases/ buildings.  [Images coming soon]", 
+            "title": "Basalt"
+        }, 
+        {
+            "location": "/WorldGen/Volcano/", 
+            "text": "Volcano\n\n\n\n\nA volcano is a world structure. \n\n\nThey can vary in size and shape. Some volcanoes are slim and tall, while others may be quite low and wide.\nThe max radius a single volcano can occupy is 200 blocks.\n\n\n[Images coming soon]\n\n\n\n\nAt the top of the volcano, you may find two different scenarios:\n\n\n\n\n\n\nInactive volcano: The volcano still has to erupt. It is safe to walk on top of it. For now \n\n\n\n\n\n\nActive volcano: The volcano has unleashed it\ns fury, lava is spilling down the sides.\n\n\n\n\n\n\n\n\nAll volcanoes will have a lava channel running trough their center. At the bottom of the channel, you may find a well that varies in size. Some volcanoes may have a seamingly endless supply of lava, while others may run dry after a couple of hours.\n\n\nHowever, volcanoes are not all but deadly. Some may contain precious loot. \n\n\n[Images coming soon]", 
+            "title": "Volcano"
+        }, 
+        {
+            "location": "/WorldGen/Volcano/#volcano", 
+            "text": "A volcano is a world structure.   They can vary in size and shape. Some volcanoes are slim and tall, while others may be quite low and wide.\nThe max radius a single volcano can occupy is 200 blocks.  [Images coming soon]   At the top of the volcano, you may find two different scenarios:    Inactive volcano: The volcano still has to erupt. It is safe to walk on top of it. For now     Active volcano: The volcano has unleashed it s fury, lava is spilling down the sides.     All volcanoes will have a lava channel running trough their center. At the bottom of the channel, you may find a well that varies in size. Some volcanoes may have a seamingly endless supply of lava, while others may run dry after a couple of hours.  However, volcanoes are not all but deadly. Some may contain precious loot.   [Images coming soon]", 
+            "title": "Volcano"
+        }, 
+        {
             "location": "/Enchantment/enchantmentVorpal/", 
             "text": "Vorpal Enchant\n\n\n\n\n Max Enchantmentlevel: \n 2\n\n\n Effect:  \n Chance of getting heads from the killed mob.\n\n\n Effect / Level: \n \n\n\n\n\n\n\nVorpal I : 1/6 chance of getting a head ==\n 17 % \n\n\n\n\n\n\nVorpal II : 1/3 chance of getting a head ==\n 33 %", 
             "title": "Vorpal"
