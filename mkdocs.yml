@@ -11,3 +11,8 @@ markdown_extensions:
 
 pages:
   - Home: index.md
+  - Redstone:
+    - Red Alloy Wire: Redstone/Wiring/RedAlloyWire.md
+    - Bluestone Wire: Redstone/Wiring/BlueStoneWire.md
+    - Teslatite Wire: Redstone/Wiring/TeslatiteWire.md
+  
